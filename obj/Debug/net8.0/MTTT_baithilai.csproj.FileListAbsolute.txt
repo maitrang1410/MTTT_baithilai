@@ -1,0 +1,10 @@
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.csproj.AssemblyReference.cache
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.GeneratedMSBuildEditorConfig.editorconfig
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.AssemblyInfoInputs.cache
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.AssemblyInfo.cs
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.csproj.CoreCompileInputs.cache
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.MvcApplicationPartsAssemblyInfo.cs
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.MvcApplicationPartsAssemblyInfo.cache
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.RazorAssemblyInfo.cache
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.RazorAssemblyInfo.cs
+D:\MTTT_baithilai\obj\Debug\net8.0\MTTT_baithilai.sourcelink.json
