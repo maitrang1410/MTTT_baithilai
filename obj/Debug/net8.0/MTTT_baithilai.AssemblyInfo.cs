@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MTTT_baithilai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d005552a3b9dea8161164fe67aa45c6ad002f242")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71d77ff930c71bdd46e6c49e9691441ebcee2fe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MTTT_baithilai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MTTT_baithilai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
